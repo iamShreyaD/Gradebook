@@ -1,7 +1,9 @@
+# ------------------------------------------------------------------------------------------------------------
 # Shreya B Deshpande
 # This project is done through Codecademy
-# The project presentes the gradebook for this semester and the year gets printed. A few subjects and their grades
-# have also been added as well as removed.
+# The project presentes the gradebook for this semester and the year gets printed. A few subjects and their
+# grades have also been added as well as removed.
+# ------------------------------------------------------------------------------------------------------------
 
 last_semester_gradebook = [["politics", 80], ["latin", 96], ["dance", 97], ["architecture", 65]]
 
